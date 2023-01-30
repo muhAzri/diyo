@@ -1,0 +1,18 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Hot Food"
+      },
+      {
+        "id": 2,
+        "name": "Cold Food"
+        
+      },
+      {
+        "id": 3,
+        "name": "Drinks"
+        
+      }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+  "restaurant":[
+     {
+        "id":1,
+        "name":"Gyoza Bar",
+        "image_url":"https://awsimages.detik.net.id/community/media/visual/2021/12/07/resep-gyoza-goreng_43.jpeg?w=700&q=90",
+        "address" : "Permata Sari",
+        "category":"Japanese Food",
+        "distance":"1 Km",
+        "close_time":"19.30",
+        "time_ready":"5 minute"
+     },
+     {
+        "id":2,
+        "name":"Ramen Bar",
+        "image_url":"https://www.masakapahariini.com/wp-content/uploads/2021/03/ramen-jepang-ayam.jpg",
+        "address" : "Permata Sari",
+        "category":"Japanese Food",
+        "distance":"2 Km",
+        "close_time":"19.30",
+        "time_ready":"5 minute"
+     },
+     {
+        "id":3,
+        "name":"Sushi Bar",
+        "image_url":"https://awsimages.detik.net.id/community/media/visual/2022/06/02/viral-restoran-sushi-tidak-halal-ini-3-bahan-sushi-yang-tak-halal-3.jpeg?w=1200",
+        "address" : "Permata Sari",
+        "category":"Japanese Food",
+        "distance":"3 Km",
+        "close_time":"19.00",
+        "time_ready":"5 minute"
+     },
+     {
+        "id":4,
+        "name":"Takoyaki Bar",
+        "image_url":"https://asset.kompas.com/crops/eXdiOnlTdAHUvCXK-Oq4XRODlq0=/0x0:1000x667/780x390/data/photo/2021/09/08/613812d19a190.jpeg",
+        "address" : "Permata Sari",
+        "category":"Japanese Food",
+        "distance":"4 Km",
+        "close_time":"19.45",
+        "time_ready":"5 minute"
+     }
+  ]
+}

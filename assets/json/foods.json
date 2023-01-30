@@ -1,0 +1,78 @@
+{
+    "foods": [
+      {
+        "id": 1,
+        "name": "Beef Gyoza",
+        "image_url": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/recipes_1200_800_fallback/public/Original_18239_beef-gyoza.jpg?itok=Ahxh7HCN",
+        "category": "Hot Food",
+        "category_id": 1,
+        "price": 40000
+      },
+      {
+        "id": 2,
+        "name": "Chicken Gyoza",
+        "image_url": "https://cardamommagazine.com/wp-content/uploads/2021/04/chicken-gyoza.jpg",
+        "category": "Hot Food",
+        "category_id": 1,
+        "price": 25000
+      },
+      {
+        "id": 3,
+        "name": "Shrimp Gyoza",
+        "image_url": "https://www.cuisinefiend.com/RecipeImages/Prawn%20gyoza/gyoza-main.jpg",
+        "category": "Hot Food",
+        "category_id": 1,
+        "price": 60000
+      },
+      {
+        "id": 4,
+        "name": "Ramen",
+        "image_url": "https://cdn1-production-images-kly.akamaized.net/YD3lNWYSA2nNp0OLuAw_65d7Wlk=/1200x1200/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2964332/original/093124200_1573470873-michele-blackwell-rAyCBQTH7ws-unsplash.jpg",
+        "category": "Hot Food",
+        "category_id": 1,
+        "price": 30000
+      },
+      {
+        "id": 5,
+        "name": "Nigiri Sushi",
+        "image_url": "https://www.thespruceeats.com/thmb/QhTIRnxUE9f03tTjRbNjwUI2bqI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-nigiri-4800801_Hero_01-3d9dba8f2944451595633873bd0bc0ec.jpg",
+        "category": "Cold Food",
+        "category_id": 2,
+        "price": 40000
+      },
+      {
+        "id": 6,
+        "name": "Sushi Roll",
+        "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Sushi-Rolls-Maki-Sushi-%E2%80%93-Hosomaki-1106-II.jpg",
+        "category": "Cold Food",
+        "category_id": 2,
+        "price": 30000
+      },
+      {
+        "id": 7,
+        "name": "Matcha Tea",
+        "image_url": "https://cdn.idntimes.com/content-images/post/20180406/4-c40a333bd73702a58df1c3a3df557bce_600x400.jpg",
+        "category": "Drinks",
+        "category_id": 3,
+        "price": 15000
+      },
+      
+      {
+        "id": 8,
+        "name": "Ramune",
+        "image_url": "https://fooddiversity.today/wp-content/uploads/2022/07/24138483_s.jpg",
+        "category": "Drinks",
+        "category_id": 3,
+        "price": 17000
+      },
+      {
+        "id": 9,
+        "name": "Ice Lemon Tea",
+        "image_url": "https://cdn1-production-images-kly.akamaized.net/KwD5u15V85aW6h3smUG3AjZyjTc=/250x0:917x667/1200x1200/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4105104/original/067001500_1659076056-shutterstock_520264186.jpg",
+        "category": "Drinks",
+        "category_id": 3,
+        "price": 20000
+      }
+      
+    ]
+  }
